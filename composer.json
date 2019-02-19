@@ -1,0 +1,7 @@
+{
+  "name": "AndreyR/MultiException",
+  "description": "The implementation of the pattern MultiException",
+  "require": {
+    "php": "^7.1"
+  }
+}
